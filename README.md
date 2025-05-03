@@ -9,4 +9,5 @@ Esse projeto também irá utilizar o recursos de SSR do Angular Universal, como 
 
 Para o Carrinho, o NgRX e seus selector, actions, effects e reducers farão o trabalho de criar um estado global para poder ser utilizado durante a navegação entre as páginas 
 
-
+## Conclusão 
+Há diversas complexidades até em iniciar um projeto com Angular Universal e isso torna o processo de estudo mais extenso. Estou preferindo analisar um projeto criado para usar como referência.
